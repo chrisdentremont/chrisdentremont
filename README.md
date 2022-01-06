@@ -1,4 +1,5 @@
-### 👋 Hello! I'm Chris, a junior Computer Science Major
+### 👋 Hello, I'm Chris!
+I am a junior at Wentworth Institute of Technology that is studying Computer Science and Business Management. I love working with people on projects, and my goal is to become a full-fledged Software Developer. Thanks for checking me out!
 
 <br />
 
