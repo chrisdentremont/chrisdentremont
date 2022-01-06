@@ -1,5 +1,7 @@
 ### 👋 Hello! I'm Chris, a junior Computer Science Major
 
+<br />
+
 ## Languages and Tools
 ![C](images/c.png)
 ![C#](images/csharp.png)
