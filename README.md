@@ -1,20 +1,20 @@
 ### 👋 Hello! I'm Chris, a junior Computer Science Major
 
 ## Languages and Tools
-![C](c.png)
-![C#](csharp.png)
-![CSS3](css3.png)
-![HTML5](html5.png)
-![Java](java.png)
-![JavaScript](javascript.png)
-![Python](python.png)
-![Git](git.png)
-![GitHub](github.png)
-![IntelliJ](intellij.png)
+![C](images/c.png)
+![C#](images/csharp.png)
+![CSS3](images/css3.png)
+![HTML5](images/html5.png)
+![Java](images/java.png)
+![JavaScript](images/javascript.png)
+![Python](images/python.png)
+![Git](images/git.png)
+![GitHub](images/github.png)
+![IntelliJ](images/intellij.png)
 ![Amazon Web Services](images/amazonwebservices.png)
-![Linux](linux.png)
-![PyCharm](pycharm.png)
-![VSCode](visualstudio.png)
+![Linux](images/linux.png)
+![PyCharm](images/pycharm.png)
+![VSCode](images/visualstudio.png)
 
 <br />
 <br />
