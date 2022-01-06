@@ -21,9 +21,9 @@
 <br />
 
 ## Projects I've Worked On
-- [ML Pong Player][pongplayer]
-- [Online Trivia Game][triviaduel]
-- [ML Plastic Pollution Predictor][plasticpredictor]
+- [ML Pong Player][pongplayer] - A simple linear regression machine learning model that learns how to play Pong
+- [Online Trivia Game][triviaduel] - A Java-based online trivia game that features lobbies and realtime trivia gameplay
+- [ML Plastic Pollution Predictor][plasticpredictor] - A simple linear regression machine learning model that predicts plastic waste contribution of theoretical country
 
 
 
