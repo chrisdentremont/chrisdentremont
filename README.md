@@ -3,21 +3,25 @@ I am a junior at Wentworth Institute of Technology that is studying Computer Sci
 
 <br />
 
-## Languages and Tools
+## Known Languages and Tools
 ![C](images/c.png)
 ![C#](images/csharp.png)
 ![CSS3](images/css3.png)
 ![HTML5](images/html5.png)
 ![Java](images/java.png)
-![JavaScript](images/javascript.png)
 ![Python](images/python.png)
 ![Git](images/git.png)
 ![GitHub](images/github.png)
 ![IntelliJ](images/intellij.png)
-![Amazon Web Services](images/amazonwebservices.png)
 ![Linux](images/linux.png)
 ![PyCharm](images/pycharm.png)
 ![VSCode](images/visualstudio.png)
+
+<br />
+
+## Currently Learning
+![JavaScript](images/javascript.png)
+![Amazon Web Services](images/amazonwebservices.png)
 
 <br />
 
