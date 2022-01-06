@@ -17,7 +17,6 @@
 ![VSCode](images/visualstudio.png)
 
 <br />
-<br />
 
 ## Projects I've Worked On
 - [ML Pong Player][pongplayer]
