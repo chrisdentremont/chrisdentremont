@@ -3,7 +3,7 @@ I am a junior at Wentworth Institute of Technology that is studying Computer Sci
 
 <br />
 
-## Known Languages and Tools
+## Experience Using
 ![C](images/c.png)
 ![C#](images/csharp.png)
 ![CSS3](images/css3.png)
