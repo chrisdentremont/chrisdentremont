@@ -29,6 +29,7 @@ I am a junior at Wentworth Institute of Technology that is studying Computer Sci
 - [ML Pong Player][pongplayer] - A simple linear regression machine learning model that learns how to play Pong
 - [Online Trivia Game][triviaduel] - A Java-based online trivia game that features lobbies and realtime trivia gameplay
 - [ML Plastic Pollution Predictor][plasticpredictor] - A simple linear regression machine learning model that predicts plastic waste contribution of theoretical country
+- [AppliTrack][applitrack] - A web app that lets you keep track of your job search
 
 
 
@@ -36,3 +37,4 @@ I am a junior at Wentworth Institute of Technology that is studying Computer Sci
 [pongplayer]: https://github.com/dentremontcatwit/pongplayer
 [triviaduel]: https://github.com/madeiragatwit/TriviaDuelProject
 [plasticpredictor]: https://github.com/dentremontcatwit/plasticpollution
+[applitrack]: https://github.com/dentremontcatwit/AppliTrack
