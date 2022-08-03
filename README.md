@@ -8,6 +8,7 @@ I am a junior at Wentworth Institute of Technology that is studying Computer Sci
 ![C#](images/csharp.png)
 ![CSS3](images/css3.png)
 ![HTML5](images/html5.png)
+![JavaScript](images/javascript.png)
 ![Java](images/java.png)
 ![Python](images/python.png)
 ![Git](images/git.png)
@@ -16,12 +17,6 @@ I am a junior at Wentworth Institute of Technology that is studying Computer Sci
 ![Linux](images/linux.png)
 ![PyCharm](images/pycharm.png)
 ![VSCode](images/visualstudio.png)
-
-<br />
-
-## Currently Learning
-![JavaScript](images/javascript.png)
-![Amazon Web Services](images/amazonwebservices.png)
 
 <br />
 
