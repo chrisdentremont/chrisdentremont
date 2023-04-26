@@ -11,7 +11,6 @@ I am currently a senior at Wentworth Institute of Technology that is studying Co
 ![JavaScript](images/javascript.png)
 ![Java](images/java.png)
 ![Python](images/python.png)
-![Kotlin](images/kotlin.png)
 
 ![Git](images/git.png)
 ![GitHub](images/github.png)
