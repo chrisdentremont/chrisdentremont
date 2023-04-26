@@ -11,12 +11,15 @@ I am currently a senior at Wentworth Institute of Technology that is studying Co
 ![JavaScript](images/javascript.png)
 ![Java](images/java.png)
 ![Python](images/python.png)
+![Kotlin](images/kotlin.png)
+
 ![Git](images/git.png)
 ![GitHub](images/github.png)
 ![IntelliJ](images/intellij.png)
 ![Linux](images/linux.png)
 ![PyCharm](images/pycharm.png)
 ![VSCode](images/visualstudio.png)
+![Android Studio](images/androidstudio.png)
 
 <br />
 
@@ -25,6 +28,7 @@ I am currently a senior at Wentworth Institute of Technology that is studying Co
 - [Online Trivia Game][triviaduel] - A Java-based online trivia game that features lobbies and realtime trivia gameplay
 - [ML Plastic Pollution Predictor][plasticpredictor] - A simple linear regression machine learning model that predicts plastic waste contribution of theoretical country
 - [AppliTrack][applitrack] - A web app that lets you keep track of your job search
+- [FlyBuddy](https://github.com/dentremontcatwit/flybuddy) - A mobile android app that provides flight tracking
 
 
 
