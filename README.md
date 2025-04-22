@@ -20,18 +20,3 @@ I am a graduate from Wentworth Institute of Technology with a Bachelor's degree 
 ![VSCode](images/visualstudio.png)
 ![Android Studio](images/androidstudio.png)
 
-<br />
-
-## Some Projects I've Worked On
-- [AppliTrack][applitrack] - A web app that lets you keep track of your job search
-- [Travelyze][travelyze] - A proof-of-concept capstone Android application that promotes learning about countries.
-- [ML Pong Player][pongplayer] - A simple linear regression machine learning model that learns how to play Pong
-- [ML Plastic Pollution Predictor][plasticpredictor] - A simple linear regression machine learning model that predicts plastic waste contribution of theoretical country
-
-
-
-
-[pongplayer]: https://github.com/dentremontcatwit/pongplayer
-[plasticpredictor]: https://github.com/dentremontcatwit/plasticpollution
-[applitrack]: https://github.com/dentremontcatwit/AppliTrack
-[travelyze]: https://github.com/dentremontcatwit/travelyze
